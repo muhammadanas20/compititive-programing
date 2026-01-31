@@ -17,6 +17,7 @@ int main()
         flipped[i] = (unsigned int)~input[i];
         printf("%u\n", flipped[i]);
     }
+    const 
 
     return 0;
 }
